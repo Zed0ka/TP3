@@ -1,0 +1,9 @@
+table {
+    border : double blue 5px;
+    border-collapse: collapse;
+}
+
+td {
+    border : solid blue 2px;
+    border-collapse: collapse;
+}
